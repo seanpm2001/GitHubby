@@ -1,0 +1,64 @@
+/* Start of script */
+
+/* Light mode */
+H1.lightM {
+  color: "black";
+  font-family: "Arial";
+}
+H2.lightM {
+  color: "black";
+  font-family: "Arial";
+}
+H3.lightM {
+  color: "black";
+  font-family: "Arial";
+}
+H4.lightM {
+  color: "black";
+  font-family: "Arial";
+}
+H5.lightM {
+  color: "black";
+  font-family: "Arial";
+}
+H6.lightM {
+  color: "black";
+  font-family: "Arial";
+}
+p.lightM {
+  color: "black";
+  font-family: "Courier";
+}
+
+/* Dark mode */
+H1.darkM {
+  color: "white";
+  font-family: "Arial";
+}
+H2.darkM {
+  color: "white";
+  font-family: "Arial";
+}
+H3.darkM {
+  color: "white";
+  font-family: "Arial";
+}
+H4.darkM {
+  color: "white";
+  font-family: "Arial";
+}
+H5.darkM {
+  color: "white";
+  font-family: "Arial";
+}
+H6.darkM {
+  color: "white";
+  font-family: "Arial";
+}
+p.darkM {
+  color: "white";
+  font-family: "Courier";
+}
+
+/* File version: 1 (Monday, June 22nd 2020 at 3:30 pm) */
+/* End of script */
