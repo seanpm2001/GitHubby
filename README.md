@@ -41,9 +41,11 @@ It is a tool that improves the GitHub experience.
 
 ## Version history
 
-[Version 0.0.1 (coming soon)](127.0.0.1)
+[Version 0.0.1C](https://github.com/seanpm2001/GitHubby/releases/tag/V0.0.1C/) - Released Monday June 22nd 2020 at 3:59 pm, 31 commits
 
-[Coming soon](https://www.example.com)
+[Version 0.0.2C (Coming soon)](127.0.0.1) - Not yet released
+
+[More versions coming soon](https://www.example.com/)
 
 ***
 
@@ -51,9 +53,15 @@ It is a tool that improves the GitHub experience.
 
 Currently, I am the only contributer, but if you know enough about browser extension development, you can help too.
 
-1. [seanpm2001](https://github.com/seanpm2001/) - 30 commits (As of Monday, June 22nd 2020 at 3:48 pm)
+1. [seanpm2001](https://github.com/seanpm2001/) - 33 commits (As of Monday, June 22nd 2020 at 4:09 pm)
 
 2. No other contributers at the moment
+
+***
+
+## Contributing
+
+Please abide by the contributing rules for this project. They are listed [here.](https://github.com/seanpm2001/GitHubby/CONTRIBUTING.md)
 
 ***
 
@@ -61,9 +69,9 @@ Currently, I am the only contributer, but if you know enough about browser exten
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines): `73`
+Line count (including blank lines): `81`
 
-File version: `1 (Monday, June 22nd 2020 at 3:48 pm)`
+File version: `2 (Monday, June 22nd 2020 at 4:09 pm)`
 
 ***
 
