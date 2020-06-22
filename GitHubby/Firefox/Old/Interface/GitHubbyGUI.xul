@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<window id="vbox example" title="Unavailable"
+xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <vbox>
+    <button id="retry1" label="Retry"/>
+    <button id="quit1" label="Quit"/>
+    <button id="cance1" label="Cancel"/>
+  </vbox>
+</window>
+<!-- The XUL script is for older versions of Firefox, as XUL was weakened in Firefox 57.0 !-->
+<!-- File version: 1 (Monday, June 22nd 2020 at 2:57 pm) !-->
