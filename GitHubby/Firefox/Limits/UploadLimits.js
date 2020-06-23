@@ -15,10 +15,16 @@ function fileLimit25MB {
   console.log("Failed to set 25 Megabyte file limit");
   alert("Failed to set 25 Megabyte file limit");
 }
+// Empty file detection
+function emptyFileDet {
+  // I don't know how to access the file explorer via JavaScript right now
+  console.log("Failed to find empty files");
+  alert("Failed to find empty files");
+}
 // End
 /* File info
-* File version: 1 (Monday, June 22nd 2020 at 2:53 pm)
+* File version: 2 (Monday, June 22nd 2020 at 6:11 pm)
 * File type: JavaScript file (*.js)
-* Line count (including blank lines): 25
+* Line count (including blank lines): 31
 */
 // End of script
